@@ -34,5 +34,5 @@ In `.watch` file you define transpile rule one per line. Transpiling rule is jus
 
 In order to supply transpiling script with content you can use `{}` construction that will be replaced with full path to changed file. Also you can use `%w` construction that will be replaced with directory path for changed file. `%f` construction for filename without extension and `%fe` for filename with extension.
 
-__
+--
 HTH, enjoy :)
